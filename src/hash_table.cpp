@@ -1,7 +1,5 @@
 #include "hash_table.hpp"
-
 #include <stdexcept>
-
 namespace itis
 {
 
